@@ -1,0 +1,20 @@
+# Python cache and venv
+__pycache__/
+*.pyc
+.venv/
+
+# Model checkpoints and outputs
+*.pt
+*.ckpt
+out/
+models/
+
+# Local environment/config files
+.env
+*.log
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
